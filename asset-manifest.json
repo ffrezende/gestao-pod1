@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gestao-ride/static/css/main.34de6062.chunk.css",
+    "main.js": "/gestao-ride/static/js/main.d03dcc9a.chunk.js",
+    "main.js.map": "/gestao-ride/static/js/main.d03dcc9a.chunk.js.map",
+    "runtime~main.js": "/gestao-ride/static/js/runtime~main.67919a98.js",
+    "runtime~main.js.map": "/gestao-ride/static/js/runtime~main.67919a98.js.map",
+    "static/js/2.8b4f884c.chunk.js": "/gestao-ride/static/js/2.8b4f884c.chunk.js",
+    "static/js/2.8b4f884c.chunk.js.map": "/gestao-ride/static/js/2.8b4f884c.chunk.js.map",
+    "index.html": "/gestao-ride/index.html",
+    "precache-manifest.12d290433acad3cee575d0fd6c89c6d4.js": "/gestao-ride/precache-manifest.12d290433acad3cee575d0fd6c89c6d4.js",
+    "service-worker.js": "/gestao-ride/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/gestao-ride/static/css/main.34de6062.chunk.css.map"
+  }
+}
